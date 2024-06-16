@@ -27,13 +27,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <meta http-equiv="Content-Style-Type" content="text/css" /> 
-<meta name="Description" content="イジェール語オンライン辞書" />
+<meta name="Description" content="ホレス語オンライン辞書" />
 <meta name="keywords" content="人工言語,辞書," />
 <meta property="og:type" content="dictionary" />
-<meta property="og:title" content="イジェール語 オンライン辞書" />
-<meta property="og:description" content="イジェール語 オンライン辞書" />
-<meta property="og:url" content="https://zaslon.info/dict/dict.php" />
-<meta property="og:site_name" content="イジェール語 オンライン辞書" />
+<meta property="og:title" content="イ語ホレス オンライン辞書" />
+<meta property="og:description" content="ホレス語 オンライン辞書" />
+<meta property="og:url" content="https://kontiwa.info/dict/dict.php" />
+<meta property="og:site_name" content="ホレス語 オンライン辞書" />
 <meta property="og:image" content="https://zaslon.info/wordpress/wp-content/uploads/2020/08/cropped-ZaslonI-1.png">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@Zaslon" />
@@ -48,7 +48,7 @@
 <div class="all">
 	<div id="header">
 		
-		<h1>イジェール語 オンライン辞書</h1>
+		<h1>ホレス語 オンライン辞書</h1>
 		<ul id="menu">
 			<li><a class="menu" href="https://zaslon.info/idyerin/%e6%a4%9c%e7%b4%a2%e4%bb%95%e6%a7%98/">検索仕様</a></li>
 			<li><a class="menu" href="https://zaslon.info/idyerin/%e8%be%9e%e6%9b%b8%e5%87%a1%e4%be%8b/">凡例</a></li>
